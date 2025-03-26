@@ -1,8 +1,8 @@
 # PIN Solver
 
-![Java](https://img.shields.io/badge/Java-17-red.svg)
-![Maven](https://img.shields.io/badge/Maven-3.6+-C71A36.svg)
-![Unit Tests](https://img.shields.io/badge/Unit%20Tests-5%20passed-green.svg)
+![Java](https://img.shields.io/badge/Java-17-blue.svg)
+![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)
+![JUnit](https://img.shields.io/badge/JUnit-5-blue.svg)
 
 A Java solution for generating possible PIN combinations based on adjacent digits on a phone keypad.
 
